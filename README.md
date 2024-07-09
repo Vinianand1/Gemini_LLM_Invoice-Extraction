@@ -4,8 +4,8 @@
 ## The Multi-Language Invoice Extractor aims to streamline invoice processing by automatically identifying and extracting key data fields from invoices written in various languages.
 ## Steps to Build the App:
 1 Setting Up Environment:
-2 Create a virtual environment for your project.
-- Install necessary dependencies (e.g., Streamlit, Gemini Pro SDK).
+- Create a virtual environment for your project.
+2 Install necessary dependencies (e.g., Streamlit, Gemini Pro SDK).
 - Designing the User Interface:
 - Use Streamlit to create a simple web interface.
 - Add input fields for uploading invoices.
